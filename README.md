@@ -6,3 +6,6 @@ This is a customer relationship management system based on Spring MVC that can b
 * Spring MVC
 * Hibernate
 * MySQL
+* MySQL Workbench
+* TomCat
+* JSP 
